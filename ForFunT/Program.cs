@@ -23,6 +23,7 @@ namespace ForFunT
                 server.OpenAsync().Wait();
                 Console.WriteLine("Press Enter to quit.");
                 Console.ReadLine();
+
             }
 
         }
