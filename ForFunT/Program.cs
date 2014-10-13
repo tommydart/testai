@@ -12,7 +12,7 @@ namespace ForFunT
         {
             Console.WriteLine("Hello world :)");
             //kometasaaa
-            a
+
         }
     }
 }
