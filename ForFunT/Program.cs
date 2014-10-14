@@ -24,6 +24,8 @@ namespace ForFunT
                 Console.WriteLine("Press Enter to quit.");
                 Console.ReadLine();
 
+
+
             }
 
         }
